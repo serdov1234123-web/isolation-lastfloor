@@ -1,10 +1,20 @@
 {
-    "latest":  12,
+    "latest":  13,
     "base":  12,
     "android":  [
-
+                    {
+                        "n":  13,
+                        "file":  "android/patch_13.pck",
+                        "size":  12820,
+                        "sha256":  "5f15a74a49c27f1f5a46ec06f8eaf76040e28879f52af908edc6793215d36ea8"
+                    }
                 ],
     "windows":  [
-
+                    {
+                        "n":  13,
+                        "file":  "windows/patch_13.pck",
+                        "size":  12820,
+                        "sha256":  "5f15a74a49c27f1f5a46ec06f8eaf76040e28879f52af908edc6793215d36ea8"
+                    }
                 ]
 }
