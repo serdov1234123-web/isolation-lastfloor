@@ -1,10 +1,20 @@
 {
-    "latest":  1,
+    "latest":  2,
     "base":  1,
     "android":  [
-
+                    {
+                        "n":  2,
+                        "file":  "android/patch_2.pck",
+                        "size":  45720,
+                        "sha256":  "168766b89e59653a7735bf6dd1d836d9f166c84831f2045e7eec95db06fe1c23"
+                    }
                 ],
     "windows":  [
-
+                    {
+                        "n":  2,
+                        "file":  "windows/patch_2.pck",
+                        "size":  45720,
+                        "sha256":  "168766b89e59653a7735bf6dd1d836d9f166c84831f2045e7eec95db06fe1c23"
+                    }
                 ]
 }
