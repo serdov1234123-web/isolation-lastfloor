@@ -1,5 +1,5 @@
 {
-    "latest":  41,
+    "latest":  42,
     "base":  12,
     "android":  [
                     {
@@ -175,6 +175,12 @@
                         "file":  "android/patch_41.pck",
                         "size":  8140,
                         "sha256":  "37b7b1b17c15ce9fd5ac83da6e8c176d68eb731cfa038308b2613602d3193c02"
+                    },
+                    {
+                        "n":  42,
+                        "file":  "android/patch_42.pck",
+                        "size":  246428,
+                        "sha256":  "564513169dc6757f4e2c6a2b38dec95eced02480926a676b937c447a26e96772"
                     }
                 ],
     "windows":  [
@@ -351,6 +357,12 @@
                         "file":  "windows/patch_41.pck",
                         "size":  8140,
                         "sha256":  "37b7b1b17c15ce9fd5ac83da6e8c176d68eb731cfa038308b2613602d3193c02"
+                    },
+                    {
+                        "n":  42,
+                        "file":  "windows/patch_42.pck",
+                        "size":  246428,
+                        "sha256":  "3e93e25b20cbfc94c2aa6c56ad165d7568f5cde77b03851e0f35b9f52a396889"
                     }
                 ]
 }
