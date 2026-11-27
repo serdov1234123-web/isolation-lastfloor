@@ -1,32 +1,44 @@
 {
-    "latest":  53,
-    "base":  51,
-    "android":  [
-                    {
-                        "n":  52,
-                        "file":  "android/patch_52.pck",
-                        "size":  92180,
-                        "sha256":  "79c993b83e314553c446abff8b617479b7aa9aa60ed9a6976e6dad552c0074ef"
-                    },
-                    {
-                        "n":  53,
-                        "file":  "android/patch_53.pck",
-                        "size":  30165420,
-                        "sha256":  "3162684db7948c476912d8cafb474f17ef2e99452c98747efe9472b92935acd0"
-                    }
-                ],
-    "windows":  [
-                    {
-                        "n":  52,
-                        "file":  "windows/patch_52.pck",
-                        "size":  92180,
-                        "sha256":  "79c993b83e314553c446abff8b617479b7aa9aa60ed9a6976e6dad552c0074ef"
-                    },
-                    {
-                        "n":  53,
-                        "file":  "windows/patch_53.pck",
-                        "size":  30165420,
-                        "sha256":  "3162684db7948c476912d8cafb474f17ef2e99452c98747efe9472b92935acd0"
-                    }
-                ]
+  "latest": 54,
+  "base": 51,
+  "android": [
+    {
+      "n": 52,
+      "file": "android/patch_52.pck",
+      "size": 92180,
+      "sha256": "79c993b83e314553c446abff8b617479b7aa9aa60ed9a6976e6dad552c0074ef"
+    },
+    {
+      "n": 53,
+      "file": "android/patch_53.pck",
+      "size": 30165420,
+      "sha256": "3162684db7948c476912d8cafb474f17ef2e99452c98747efe9472b92935acd0"
+    },
+    {
+      "n": 54,
+      "file": "android/patch_54.pck",
+      "size": 275796,
+      "sha256": "e3f6da87a2a355530f1dbc698e24ed11a6fa9cef6625eed51f37c70a95e03bb6"
+    }
+  ],
+  "windows": [
+    {
+      "n": 52,
+      "file": "windows/patch_52.pck",
+      "size": 92180,
+      "sha256": "79c993b83e314553c446abff8b617479b7aa9aa60ed9a6976e6dad552c0074ef"
+    },
+    {
+      "n": 53,
+      "file": "windows/patch_53.pck",
+      "size": 30165420,
+      "sha256": "3162684db7948c476912d8cafb474f17ef2e99452c98747efe9472b92935acd0"
+    },
+    {
+      "n": 54,
+      "file": "windows/patch_54.pck",
+      "size": 275796,
+      "sha256": "e3f6da87a2a355530f1dbc698e24ed11a6fa9cef6625eed51f37c70a95e03bb6"
+    }
+  ]
 }
