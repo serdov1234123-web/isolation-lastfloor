@@ -1,10 +1,20 @@
 {
-    "latest":  51,
+    "latest":  52,
     "base":  51,
     "android":  [
-
+                    {
+                        "n":  52,
+                        "file":  "android/patch_52.pck",
+                        "size":  92180,
+                        "sha256":  "79c993b83e314553c446abff8b617479b7aa9aa60ed9a6976e6dad552c0074ef"
+                    }
                 ],
     "windows":  [
-
+                    {
+                        "n":  52,
+                        "file":  "windows/patch_52.pck",
+                        "size":  92180,
+                        "sha256":  "79c993b83e314553c446abff8b617479b7aa9aa60ed9a6976e6dad552c0074ef"
+                    }
                 ]
 }
